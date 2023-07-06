@@ -1,7 +1,7 @@
 // Visit downtothecircuits.com for more information
 // Code by: circuitpotato
 module four_bit_CLA_adder_verilog(
-    input [3:0] i_A, [3:0] i_B,
+    input [3:0] i_A, [3:0] i_B, 
     input i_Cin,
     
     output [3:0] o_Sum,
