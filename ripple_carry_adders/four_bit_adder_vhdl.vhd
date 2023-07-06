@@ -1,4 +1,4 @@
--- Visit downtothecircuits.com for more information 
+-- Visit downtothecircuits.com for more information
 -- Code by: circuitpotato
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
