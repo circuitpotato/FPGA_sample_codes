@@ -1,7 +1,7 @@
 -- Visit downtothecircuits.com for more information
 -- Code by: circuitpotato 
 library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_1164.ALL; 
 
 entity four_bit_CLA_adder_vhdl is
     Port ( i_A, i_B : in std_logic_vector(3 downto 0);
