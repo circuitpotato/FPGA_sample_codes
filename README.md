@@ -8,5 +8,3 @@
 - **simulation:** clock_vidide_vhdl_sim.vhd / clock_divide_verilog_sim
 - **link**: https://downtothecircuits.com/?p=542
 
-## Arithmethic Logic Unit: 
-- 
