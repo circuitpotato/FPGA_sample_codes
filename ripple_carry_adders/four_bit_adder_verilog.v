@@ -1,4 +1,4 @@
-// Visit downtothecircuits.com for more information
+// Visit downtothecircuits.com for more information 
 // Code by: circuitpotato
 module four_bit_adder_verilog(
     input [3:0] i_A,    
