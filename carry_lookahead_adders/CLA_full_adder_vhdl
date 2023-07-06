@@ -1,0 +1,21 @@
+-- Visit downtothecircuits.com for more information
+-- This is just a partial full adder without Cout
+-- Code by: circuitpotato
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity CLA_full_adder_vhdl is
+    Port ( i_A, i_B, i_Cin : in STD_LOGIC; 
+
+           o_Sum, o_P, o_G : out STD_LOGIC);
+end CLA_full_adder_vhdl;
+
+architecture rtl of CLA_full_adder_vhdl is
+
+begin
+
+    o_P <= i_A xor i_B;                 -- P = A xor B  
+    o_G <= i_A and i_B;                 -- G = A and B
+    o_Sum <= i_A xor i_B xor i_Cin;     -- Sum = A xor B xor Cin 
+    
+end rtl;
