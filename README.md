@@ -8,3 +8,9 @@
 - **simulation:** clock_vidide_vhdl_sim.vhd / clock_divide_verilog_sim
 - **for more information**: https://downtothecircuits.com/?p=542
 
+## Moore Finite State Machine:
+- **top module:** fsm_moore_vhdl.vhd / fsm_moore_verilog.v
+- **simulation:** fsm_moore_vhdl_sim.vhd / fsm_moore_verilog_sim.v
+- **for more information:** https://downtothecircuits.com/?p=1683
+
+
