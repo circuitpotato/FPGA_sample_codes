@@ -3,6 +3,11 @@
 2. These sample codes are written in VHDL/Verilog.
 3. It is paired with the simulation codes written in both languages
 
+## Multiplexers:
+- **2-to-1 mux:** two_to_one_mux_vhdl.vhd / two_to_one_mux_verilog.v
+- **4-to-1 mux:** four_to_one_mux_vhdl.vhd / four_to_one_mux_verilog.v
+- **for more information:** https://downtothecircuits.com/?p=513
+
 ## Full Adders:
 - **top module:** full_adder_vhdl.vhd / full_adder_verilog.v
 - **simulation:** full_adder_vhdl_sim.vhd / full_adder_verilog_sim.v
