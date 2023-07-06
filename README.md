@@ -29,4 +29,9 @@
 - **simulation:** fsm_mealy_vhdl_sim.vhd / fsm_mealy_verilog_sim.v
 - **for more information:** https://downtothecircuits.com/?p=2624
 
+## Gray Code Counter:
+- **top module:** gray_counter_vhdl.vhd / gray_counter_verilog.v
+- **simulation:** gray_counter_vhdl_sim.vhd / gray_counter_verilog_sim.v
+- **for more information:** https://downtothecircuits.com/?p=2171
+
 
