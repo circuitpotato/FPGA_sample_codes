@@ -8,6 +8,11 @@
 - **simulation:** full_adder_vhdl_sim.vhd / full_adder_verilog_sim.v
 - **for more information:** https://downtothecircuits.com/?p=480
 
+## Ripple Carry Adders:
+- **top module:** four_bit_adder_vhdl.vhd / four_bit_adder_verilog.v
+- **simulation:** four_bit_adder_vhdl_sim.vhd / four_bit_adder_verilog_sim.v
+- **for more information:** https://downtothecircuits.com/?p=1629
+
 ## Carry Lookahead Adders:
 - **top module:** four_bit_CLA_adder_vhdl.vhd / four_bit_CLA_adder_verilog.v
 - **instantiated module:** CLA_full_adder_vhdl.vhd / CLA_full_adder_verilog.v
