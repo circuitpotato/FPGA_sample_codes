@@ -13,4 +13,9 @@
 - **simulation:** fsm_moore_vhdl_sim.vhd / fsm_moore_verilog_sim.v
 - **for more information:** https://downtothecircuits.com/?p=1683
 
+## Mealy Finite State Machine:
+- **top module:** fsm_mealy_vhdl.vhd / fsm_mealy_verilog.v
+- **simulation:** fsm_mealy_vhdl_sim.vhd / fsm_mealy_verilog_sim.v
+- **for more information:** https://downtothecircuits.com/?p=2624
+
 
