@@ -3,6 +3,11 @@
 2. These sample codes are written in VHDL/Verilog.
 3. It is paired with the simulation codes written in both languages
 
+## Carry Lookahead Adders:
+- **top module:**
+- **simulation:**
+- **for more information:** downtothecircuits.com/?p=1723
+
 ## Clock Dividers:
 - **top module:** clock_divide_vhdl.vhd / clock_divide_verilog
 - **simulation:** clock_vidide_vhdl_sim.vhd / clock_divide_verilog_sim
