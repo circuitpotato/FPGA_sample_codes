@@ -3,9 +3,15 @@
 2. These sample codes are written in VHDL/Verilog.
 3. It is paired with the simulation codes written in both languages
 
+## Full Adders:
+- **top module:** full_adder_vhdl.vhd / full_adder_verilog.v
+- **simulation:** full_adder_vhdl_sim.vhd / full_adder_verilog_sim.v
+- **for more information:** https://downtothecircuits.com/?p=480
+
 ## Carry Lookahead Adders:
-- **top module:**
-- **simulation:**
+- **top module:** four_bit_CLA_adder_vhdl.vhd / four_bit_CLA_adder_verilog.v
+- **instantiated module:** CLA_full_adder_vhdl.vhd / CLA_full_adder_verilog.v
+- **simulation:** four_bit_CLA_adder_vhdl_sim.vhd / four_bit_CLA_adder_verilog_sim.v
 - **for more information:** https://downtothecircuits.com/?p=1723
 
 ## Clock Dividers:
